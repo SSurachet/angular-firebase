@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1647699860210,
+  "index": "https://ssurachet.github.io/angular-firebase/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://ssurachet.github.io/angular-firebase/favicon.ico",
+        "https://ssurachet.github.io/angular-firebase/index.html",
+        "https://ssurachet.github.io/angular-firebase/main.420ab7b140613077.js",
+        "https://ssurachet.github.io/angular-firebase/manifest.webmanifest",
+        "https://ssurachet.github.io/angular-firebase/polyfills.10f3a1f5f395ed36.js",
+        "https://ssurachet.github.io/angular-firebase/runtime.01f8faebc52d7560.js",
+        "https://ssurachet.github.io/angular-firebase/scripts.5a760000a5f57d40.js",
+        "https://ssurachet.github.io/angular-firebase/styles.2b03d730b2ab91bc.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://ssurachet.github.io/angular-firebase/assets/icons/icon-128x128.png",
+        "https://ssurachet.github.io/angular-firebase/assets/icons/icon-144x144.png",
+        "https://ssurachet.github.io/angular-firebase/assets/icons/icon-152x152.png",
+        "https://ssurachet.github.io/angular-firebase/assets/icons/icon-192x192.png",
+        "https://ssurachet.github.io/angular-firebase/assets/icons/icon-384x384.png",
+        "https://ssurachet.github.io/angular-firebase/assets/icons/icon-512x512.png",
+        "https://ssurachet.github.io/angular-firebase/assets/icons/icon-72x72.png",
+        "https://ssurachet.github.io/angular-firebase/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://ssurachet.github.io/angular-firebase/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://ssurachet.github.io/angular-firebase/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://ssurachet.github.io/angular-firebase/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://ssurachet.github.io/angular-firebase/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://ssurachet.github.io/angular-firebase/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://ssurachet.github.io/angular-firebase/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://ssurachet.github.io/angular-firebase/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://ssurachet.github.io/angular-firebase/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://ssurachet.github.io/angular-firebase/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://ssurachet.github.io/angular-firebase/index.html": "757f2fbe9dd16973aab291c00c40481f1bfcb49c",
+    "https://ssurachet.github.io/angular-firebase/main.420ab7b140613077.js": "897279056994d4cb377f80d0333870d0624f3f64",
+    "https://ssurachet.github.io/angular-firebase/manifest.webmanifest": "d0efc703c7ffbcdb0930e6d0ecaa617859d3146a",
+    "https://ssurachet.github.io/angular-firebase/polyfills.10f3a1f5f395ed36.js": "add63a61bbb81647ed94786c5c39a0bdfab5fa03",
+    "https://ssurachet.github.io/angular-firebase/runtime.01f8faebc52d7560.js": "c0580b5bcf3ab67288721a64d36db6a908b4cdd5",
+    "https://ssurachet.github.io/angular-firebase/scripts.5a760000a5f57d40.js": "d51f44c4eb4b17e2c76195c5c7cc6415259bc0eb",
+    "https://ssurachet.github.io/angular-firebase/styles.2b03d730b2ab91bc.css": "6431f58236aadd66088e49bd83c8ed69be8c74cc"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
